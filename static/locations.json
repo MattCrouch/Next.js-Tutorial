@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "name": "London",
+        "image": "/static/images/london.jpg",
+        "description": "London is the capital of the United Kingdom located towards the south east of Great Britain. It is home to a wide range of cultures and traditions going back centuries, with tourist spots and architecture spanning the centuries.",
+        "facts": [
+            {
+                "title": "Second largest city in Europe",
+                "description": "It has a population of over 8.5 million people - roughly 13% of the population of the UK."
+            },
+            {
+                "title": "It's not called Big Ben",
+                "description": "'Big Ben' is the name of the bell that is housed inside Elizabeth Tower."
+            },
+            {
+                "title": "The tube is mostly overground",
+                "description": "Despite being called the London Underground, 60% runs above ground level."
+            },
+            {
+                "title": "Fake houses hide railway tracks",
+                "description": "23 and 24 Leinster Gardens in Paddington are only building facades used to disguise the Metropolitan line behind it."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Bangkok",
+        "image": "/static/images/bangkok.jpg",
+        "description": "Bangkok is the capital - and most populated city of - Thailand. It is situated in the Chao Phraya delta and as a result is mostly flat. Due to it's location, the weather can be hot and turbulent.",
+        "facts": [
+            {
+                "title": "A very busy city",
+                "description": "Over 8 million people live in Thailand. That's over 10% of the entire population of Thailand."
+            },
+            {
+                "title": "The world's largest Chinatown",
+                "description": "Yaowarat is the largest Chinatown of anywhere in the world. It's home to over a million Chinese people."
+            },
+            {
+                "title": "The sinking city",
+                "description": "Due to its location on a delta, Bangkok is sinking at a rate of 2cm a year due to heavy development and high-rise building."
+            },
+            {
+                "title": "The longest name of any city",
+                "description": "While Bangkok isn't particularly long, it's traditional Thai name is 'Krungthepmahanakhon Amonrattanakosin Mahintharayutthaya Mahadilokphop Noppharatratchathaniburirom Udomratchaniwetmahasathan Amonphimanawatansathit Sakkathattiyawitsanukamprasit', making it the longest in the world according to Guinness World Records."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Paris",
+        "image": "/static/images/paris.jpg",
+        "description": "Paris is the capital of France. The Celtic founders were called Parisii who gave their name to the city in the 3rd Centrury BC. It is home to the most important and well respected painting and sculpture collections anywhere in the world.",
+        "facts": [
+            {
+                "title": "Home of Disneyland",
+                "description": "Europe's Disneyland is situated in the city. It is located in Marne-la-Vallée, 20 miles east of the centre of Paris."
+            },
+            {
+                "title": "Plenty of trees",
+                "description": "Each of the 500,000 trees planted across Paris are each counted, measured and referenced regularly"
+            },
+            {
+                "title": "Home of another Statue of Liberty",
+                "description": "Paris has a replica of the Statue of Liberty, which faces the direction of the original they gave to New York."
+            },
+            {
+                "title": "Viva Louvre",
+                "description": "The unique design and prized collection of the Louvre make it the most visited art museum in the world."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Berlin",
+        "image": "/static/images/berlin.jpg",
+        "description": "Berlin is the capital of Germany and one of the its 16 states. It is home to nearly 4 million people contributing to its diverse and talented workforce. The economy here is largely ran from high-tech firms having their European headquarters in the city.",
+        "facts": [
+            {
+                "title": "It all lines up",
+                "description": "Berlin sits on the same latitude as London and the same longitude as Naples."
+            },
+            {
+                "title": "The tallest structure in Germany",
+                "description": "The Fernsehturm is over 200 metres high, which serves as a key focal point when navigating the city."
+            },
+            {
+                "title": "Plenty of beer",
+                "description": "Berlin is home to the International Beer Festival every year. It set the record of the world's longest beer garden measuring over 2 kilometres."
+            },
+            {
+                "title": "Hosts an abandoned theme park",
+                "description": "Spreepark went bankrupt in 2001 and since has become a hotspot for urban explorers and photoshoots."
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "New York City",
+        "image": "/static/images/newyork.jpg",
+        "description": "New York City is the highest populated city in the United States. It is a hotspot for global tourists with its many shops, buildings and sightseeing opportunities. It is also the headquarters of the United Nations.",
+        "facts": [
+            {
+                "title": "The coffee capital of America",
+                "description": "Most people in New York drink 7 times more coffee than the average American."
+            },
+            {
+                "title": "A high Polish population",
+                "description": "New York is home to the highest number of Polish people after Warsaw."
+            },
+            {
+                "title": "A crawling underground",
+                "description": "Over 15,000 different types of life have been found living on the New York subway system."
+            },
+            {
+                "title": "The Empire State Building is really big",
+                "description": "It stands over 400 metres tall. It's so big it has its own zip code."
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Dubai",
+        "image": "/static/images/dubai.jpg",
+        "description": "Dubai is the most populated city in the United Arab Emirates. It is seen as the business hub of the Middle East. The city grew as a result of its large oil reserves, which have since dried up. ",
+        "facts": [
+            {
+                "title": "0% crime rate",
+                "description": "Crime is so low in Dubai it is known as one of the safest cities on Earth."
+            },
+            {
+                "title": "Home of the world's tallest building",
+                "description": "The Burj Khalifa is the world's tallest man-made structure, standing at over 800 metres tall."
+            },
+            {
+                "title": "Don't get lost",
+                "description": "Dubai has no official address system, which can make navigation difficult for the unitiated."
+            },
+            {
+                "title": "Gold bar ATMs",
+                "description": "Money is so plentiful in Dubai, it's possible you may even see vending machines for gold bars in important places."
+            }
+        ]
+    }
+]
